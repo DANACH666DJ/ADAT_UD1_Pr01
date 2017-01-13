@@ -1,0 +1,6 @@
+Gran Canaria=14
+Regal Barcelona=10
+Real Madrid=9
+Caja Laboral=22
+P.E. Valencia=11
+CAI Zaragoza=23
